@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>learning-java-concurrent-programming</artifactId>
+    <artifactId>learning-java-common</artifactId>
     <build>
         <plugins>
             <plugin>

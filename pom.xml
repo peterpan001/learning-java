@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>learning-java-concurrent-programming</module>
+        <module>learning-java-common</module>
     </modules>
 
 
