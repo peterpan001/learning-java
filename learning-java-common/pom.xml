@@ -12,16 +12,26 @@
     <artifactId>learning-java-common</artifactId>
 
     <dependencies>
+
+        <!-- ArrayUtils/CharUtils/ClassUtils/EnumUtils/ObjectUtils/RandomUtils/StringUtils -->
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
             <version>3.4</version>
         </dependency>
 
+        <!-- fastjson包 -->
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
             <version>1.2.70</version>
+        </dependency>
+
+        <!-- httpClient -->
+        <dependency>
+            <groupId>org.apache.httpcomponents</groupId>
+            <artifactId>httpclient</artifactId>
+            <version>4.5.2</version>
         </dependency>
     </dependencies>
     <build>
