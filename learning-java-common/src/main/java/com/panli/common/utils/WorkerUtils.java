@@ -1,4 +1,4 @@
-package com.panli.commom.utils;
+package com.panli.common.utils;
 
 /**
  * @author lipan

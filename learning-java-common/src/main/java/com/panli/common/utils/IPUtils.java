@@ -1,4 +1,4 @@
-package com.panli.commom.utils;
+package com.panli.common.utils;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

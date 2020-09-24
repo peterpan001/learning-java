@@ -12,6 +12,7 @@
         <module>learning-java-concurrent-programming</module>
         <module>learning-java-common</module>
         <module>learning-java-jvm</module>
+        <module>learning-java-io</module>
     </modules>
 
 
